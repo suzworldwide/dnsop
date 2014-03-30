@@ -1,7 +1,7 @@
 
 The DNS Operations Working Group will develop guidelines for the
-operation of DNS software servers and the administration of DNS zone
-files. These guidelines will provide technical information
+operation of DNS software servers and the administration of DNS zones.
+These guidelines will provide technical information
 relating to the implementation of the DNS protocol by the
 operators and administrators of DNS zones. The group will
 perform the following activities:
@@ -24,3 +24,20 @@ perform the following activities:
 
 4. Publish documents concerning the operations of the root and
    TLD services, and DNS resolvers.
+
+5. Publish documents on extensions or protocol maintenance to the DNS
+   Protocol, with a focus on the operational impacts of
+   such changes. Act as clearinghouse or providing advice to ADs
+   and other WGs on EDNS0 options, new RRTYPEs, DNSSEC, record
+   synthesis, or other mechanics of extending DNS to support other
+   applications.
+
+6. Serve as a clearinghouse for DNS-related issues where people can
+   bring drafts that document the problem space around these issues.
+   The group will then decide whether these issues belong in DNSOP or
+   will work with the authors and appropriate ADs to determine the
+   appropriate group for the work.
+
+7. Address the problem ares arund the top level namespace; manage the
+   IETF portion of that registry; and work as a Liason between the
+   IETF, the IAB, and ICANN.
