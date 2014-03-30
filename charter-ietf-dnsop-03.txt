@@ -38,6 +38,7 @@ perform the following activities:
    will work with the authors and appropriate ADs to determine the
    appropriate group for the work.
 
-7. Address the problem ares around the top level namespace; manage the
-   IETF portion of that registry; and work as a Liason between the
-   IETF, the IAB, and ICANN.
+7. Publish documents that attempt to better define the overlapping
+   area between the DNS root, and the 'special names' that IETF
+   manages, and how they will interact moving forward.  Work in a
+   liason capacitiy to ICANN to assist in this.
