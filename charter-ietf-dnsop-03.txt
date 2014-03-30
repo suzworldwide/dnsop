@@ -38,6 +38,6 @@ perform the following activities:
    will work with the authors and appropriate ADs to determine the
    appropriate group for the work.
 
-7. Address the problem ares arund the top level namespace; manage the
+7. Address the problem ares around the top level namespace; manage the
    IETF portion of that registry; and work as a Liason between the
    IETF, the IAB, and ICANN.
